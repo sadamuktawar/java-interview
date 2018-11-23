@@ -18,8 +18,11 @@ public class SeprateAlphabetandNo {
 		}
 		 System.out.println(Numeric);
 		 System.out.println(alphabet);
-	
-	}
+		 StringBuffer so= new StringBuffer("sada");
+		 System.out.println(so);
+		 String w = so.toString();
+		 System.out.println(w);
+		 }
 	
 
 }
